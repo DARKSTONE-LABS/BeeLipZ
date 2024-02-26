@@ -1,3 +1,6 @@
+
+![9](https://github.com/DARKSTONE-LABS/BeeLipZ/assets/141037846/f229ad7c-7278-41ac-8eff-55d62e9ca469)
+
 # BeeLipZ NFT Generator
 
 Welcome to the BeeLipZ NFT Generator, developed by DARKSTONE LABS. This tool is crafted to empower creators in generating their unique, customizable NFTs. With an automated process, this Python-based utility facilitates the creation of NFT images along with their metadata, perfectly suited for deployment on blockchain platforms like Solana.
